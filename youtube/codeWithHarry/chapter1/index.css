@@ -1,0 +1,17 @@
+.container {
+    background-color: red;
+    color: white;
+}
+
+.one {
+    background-color: bisque;
+    color: darkblue;
+}
+
+.two {
+    font-size: 19px;
+}
+
+.three {
+    font-weight: 800;
+}
